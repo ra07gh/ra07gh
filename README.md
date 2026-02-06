@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ra07gh/ra07gh/raw/main/download.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/ra07gh/ra07gh/raw/main/download.jpg" align="center" style="width: 50%; border-radius: 15px;" />
 </div>  
   
 <div align="center">
@@ -59,13 +59,13 @@
 
 ## 📊 Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ra07gh&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ra07gh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra07gh&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ra07gh&layout=compact&theme=dark&hide_border=true" />
 </div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ra07gh&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ra07gh&style=flat-square&color=blue" />
 </div>
